@@ -1,0 +1,17 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tradetrust-tt/tradetrust": "^6.9.7",
+    "@tradetrust-tt/tradetrust-core": "^1.3.0",
+    "@tradetrust-tt/tt-verify": "^8.10.1",
+    "ethers": "^5.7.2"
+  }
+}
